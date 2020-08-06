@@ -21,6 +21,7 @@
     "squizlabs/php_codesniffer": "^3.5",
     "phpstan/phpstan": "^0.12.25",
     "nunomaduro/phpinsights": "^1.14",
-    "vimeo/psalm": "^3.12"
+    "vimeo/psalm": "^3.12",
+    "phpmd/phpmd": "^2.8"
   }
 }

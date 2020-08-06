@@ -13,3 +13,4 @@ script:
   - ./vendor/bin/phpstan analyse
   - ./vendor/bin/phpinsights -n
   - ./vendor/bin/psalm
+  - ./vendor/bin/phpmd src ansi phpmd.ruleset.xml
